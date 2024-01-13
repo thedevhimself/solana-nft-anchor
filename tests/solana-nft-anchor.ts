@@ -49,8 +49,8 @@ describe("solana-nft-anchor", async () => {
   })[0];
 
   const metadata = {
-    name: "Twice",
-    symbol: "tWo",
+    name: "Drip",
+    symbol: "dri",
     uri: "https://raw.githubusercontent.com/687c/solana-nft-native-client/main/metadata.json",
   };
 
